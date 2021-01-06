@@ -29,4 +29,5 @@ chmod +x ./nvm-update.sh
 sudo mv ./nvm-update.sh /usr/local/bin/nvm-update
 
 echo "=> 安装完成!"
+echo "=> 最后请您重启终端"
 echo 
