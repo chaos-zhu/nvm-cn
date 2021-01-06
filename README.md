@@ -7,4 +7,4 @@
 ` bash -c "$(curl -fsSL https://gitee.com/RubyKids/nvm-cn/raw/master/install.sh)" `
 
 ## 卸载
-TODO
+` bash -c "$(curl -fsSL https://gitee.com/RubyKids/nvm-cn/raw/master/uninstall.sh)" `
