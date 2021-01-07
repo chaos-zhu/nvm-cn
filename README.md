@@ -22,4 +22,7 @@ nvm install v15.5.1
 # 切换Node版本
 nvm use system
 nvm use 14.15    # 不用全部打出版本号
+
+# 更新nvm
+nvm-update
 ```
