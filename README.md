@@ -26,3 +26,11 @@ nvm use 14.15    # 不用全部打出版本号
 # 更新nvm
 nvm-update
 ```
+
+## npm 换源
+```bash
+# 查看配置
+npm config ls
+
+npm config set registry https://registry.npm.taobao.org 
+```
