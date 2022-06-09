@@ -1,14 +1,14 @@
 ## 安装
 
-`wget -qO- https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh | bash`
+`wget -qO- https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh | bash`
 
 or
 
-` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh)" `
+` bash -c "$(curl -fsSL https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh)" `
 
 ## 卸载
 
-` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/uninstall.sh)" `
+` bash -c "$(curl -fsSL https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh)" `
 
 
 ## 使用
@@ -20,7 +20,7 @@ nvm ls
 nvm ls-remote
 
 # 安装某个版本Node
-nvm install lts/fermium
+nvm install lts
 nvm install v12.20.1
 nvm install v15.5.1
 
