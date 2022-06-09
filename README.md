@@ -1,6 +1,6 @@
 ## 安装
 
-`wget -qO- https://gitee.com/RubyKids/nvm-cn/raw/master/install.sh | bash` （推荐）
+`wget -qO- https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh | bash`
 
 or
 
