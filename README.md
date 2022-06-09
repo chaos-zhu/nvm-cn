@@ -1,8 +1,13 @@
 ## 安装
 
+`wget -qO- https://gitee.com/RubyKids/nvm-cn/raw/master/install.sh | bash` （推荐）
+
+or
+
 ` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh)" `
 
 ## 卸载
+
 ` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/uninstall.sh)" `
 
 
