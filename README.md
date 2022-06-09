@@ -1,9 +1,5 @@
 ## 安装
 
-`wget -qO- https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh | bash`
-
-or
-
 ` bash -c "$(curl -fsSL https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh)" `
 
 ## 卸载
