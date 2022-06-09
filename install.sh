@@ -26,7 +26,7 @@ echo "export NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/mirrors/node" >> ~/.zs
 echo "=> 安装nvm-update,升级更新请使用该命令"
 curl -fsSL https://gitee.com/RubyKids/nvm-cn/raw/master/nvm-update.sh -o nvm-update.sh
 chmod +x ./nvm-update.sh
-sudo mv ./nvm-update.sh /usr/local/bin/nvm-update
+mv ./nvm-update.sh /usr/local/bin/nvm-update
 
 echo "=> 安装完成!"
 echo "=> 重启终端后生效"
