@@ -3,7 +3,7 @@ set -e
 
 export NVM_DIR="$HOME/.nvm" && (
   echo "=> Git clone nvm"
-  git clone https://gitee.com/RubyKids/nvm-official.git "$NVM_DIR"
+  git clone https://gitee.com/chaoszhu_0/nvm-official.git "$NVM_DIR"
   cd "$NVM_DIR"
   git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
 ) && \. "$NVM_DIR/nvm.sh"
@@ -29,5 +29,5 @@ chmod +x ./nvm-update.sh
 sudo mv ./nvm-update.sh /usr/local/bin/nvm-update
 
 echo "=> 安装完成!"
-echo "=> 最后请您重启终端"
+echo "=> 重启终端后生效"
 echo 
