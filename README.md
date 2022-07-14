@@ -1,5 +1,7 @@
 ## 安装
 
+> 该脚本依赖 `git` 命令
+
 - 国内
 ` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh)" `
 
