@@ -1,9 +1,17 @@
 ## 安装
 
+- 国内
+` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/install.sh)" `
+
+- 国外
 ` bash -c "$(curl -fsSL https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh)" `
 
 ## 卸载
 
+- 国内
+` bash -c "$(curl -fsSL https://gitee.com/chaoszhu_0/nvm-cn/raw/master/uninstall.sh)" `
+
+- 国外
 ` bash -c "$(curl -fsSL https://raw.githubusercontent.com/chaos-zhu/nvm-cn/master/install.sh)" `
 
 
